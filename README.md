@@ -153,7 +153,7 @@ Este projeto está sob licença proprietária - veja o arquivo [LICENSE](LICENSE
 
 * Website: [captando.com.br](https://captando.com.br)
 * Github: [@captando](https://github.com/captando)
-* LinkedIn: [@captando](https://linkedin.com/in/captando)
+* LinkedIn: [Victor Silva](www.linkedin.com/in/victor-silva-captando)
 
 ## ✨ Agradecimentos
 
