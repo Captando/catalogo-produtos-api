@@ -143,7 +143,7 @@ fetch('http://localhost:3020/products', {
 
 ## 📄 Licença
 
-Copyright © 2024 [Victor Silva](https://captando.com.br)
+Copyright © 2025 [Victor Silva](https://app.captando.com.br)
 
 Este projeto está sob licença proprietária - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
@@ -151,7 +151,7 @@ Este projeto está sob licença proprietária - veja o arquivo [LICENSE](LICENSE
 
 **Victor Silva**
 
-* Website: [captando.com.br](https://captando.com.br)
+* Website: [captando.com.br](https://app.captando.com.br)
 * Github: [@captando](https://github.com/captando)
 * LinkedIn: [Victor Silva](https://www.linkedin.com/in/victor-silva-captando)
 
@@ -162,4 +162,4 @@ Este projeto está sob licença proprietária - veja o arquivo [LICENSE](LICENSE
 - Todos os contribuidores de dependências
 
 ---
-Feito com ❤️ por [Victor Silva](https://captando.com.br)
+Feito com ❤️ por [Victor Silva](https://app.captando.com.br)
